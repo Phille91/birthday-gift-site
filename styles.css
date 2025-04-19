@@ -1,13 +1,9 @@
-/*
-Challenge:
-Change the site's background into a gradient that goes
-from blue at the top to pink at the bottom.
-*/
+
 
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, pink);
+    background: linear-gradient(#d5bdaf, #606c38);
     color: #ffffff;
 }
 
@@ -18,12 +14,12 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #a3b18a;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #a3b18a;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -31,7 +27,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #a3b18a;
     padding: 5px 10px;
     border-radius: 5px;
 }
